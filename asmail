@@ -1,0 +1,15 @@
+DOCTYPE html>
+<html>
+<body>
+
+ <h1>Configure FTP Server Site <\h1>
+ <p> After you’ve installed all of the necessary components, you may establish an FTP server on your system by establishing a new FTP site, configuring firewall rules, and permitting external networks. 
+Open the Control Panel settings once again and tap on the option of “System and Security”. 
+Within the “System and Security” window, you will find many options and settings to be modified or updated. Tap on the last most listed option of “Administrative Tools” to continue.
+Control Panel > System and Security > Administrative Tools
+Now the file explorer will open the below “Administrative Tools” folder shown in the image. You will find many options here to be updated. You have to double-tap on the shortcut option of “Internet Information Services (IIS) Manager” to open it.
+ <\p>
+
+
+</body>
+</html>
